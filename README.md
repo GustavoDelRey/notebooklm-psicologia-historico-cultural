@@ -32,3 +32,28 @@ Este caderno temático foi desenvolvido com os seguintes objetivos:
 * GitHub
 * Markdown
 
+---
+
+# 📚 Curadoria das Fontes
+
+A qualidade das respostas geradas pelo NotebookLM depende diretamente da qualidade das fontes utilizadas. Por esse motivo, foi realizada uma curadoria com o objetivo de reunir materiais complementares, contemplando fundamentos teóricos, aplicações clínicas e princípios éticos da atuação profissional em Psicologia.
+
+As fontes foram selecionadas para que o modelo fosse capaz de responder tanto questões conceituais quanto perguntas relacionadas à prática clínica da Psicologia Histórico-Cultural.
+
+| Fonte                                                                                                                                                 | Finalidade                                                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LIMA, Ana Ignez Belém; OLIVEIRA NETO, José da Silva (2025). *A práxis na psicologia histórico-cultural: discutindo casos.***                        | Principal referência para aplicações clínicas da Psicologia Histórico-Cultural, reunindo estudos de caso, intervenções e exemplos práticos da atuação do psicólogo. |
+| **SANTOS, Gustavo Rezende dos; AQUINO, Orlando Fernández (2014). *A psicologia histórico-cultural: conceitos principais e metodologia de pesquisa.*** | Fundamentação conceitual da abordagem, utilizada para definição dos principais conceitos e da metodologia da Psicologia Histórico-Cultural.                         |
+| **CLARINDO, Janailson Monteiro (2020). *Clínica Histórico-Cultural: caracterizando um método de atuação em psicoterapia.***                           | Referência aprofundada sobre os princípios da clínica histórico-cultural e comparação com outras abordagens psicoterápicas.                                         |
+| **BOCK, Ana Mercês Bahia; FURTADO, Odair; TEIXEIRA, Maria de Lourdes Trassi (2001). *Psicologias: Uma Introdução ao Estudo de Psicologia.***          | Material introdutório utilizado para contextualizar a Psicologia Histórico-Cultural entre as principais correntes da Psicologia.                                    |
+| **Conselho Federal de Psicologia. *Código de Ética Profissional do Psicólogo.***                                                                      | Documento normativo utilizado para orientar respostas relacionadas aos princípios éticos da atuação profissional.                                                   |
+
+## 🎯 Critérios de Seleção
+
+A composição da base de conhecimento buscou contemplar diferentes níveis de aprofundamento.
+
+Enquanto alguns documentos fornecem uma visão introdutória da Psicologia Histórico-Cultural, outros apresentam discussões teóricas mais aprofundadas e aplicações clínicas concretas. A inclusão do Código de Ética Profissional do Psicólogo garante que respostas relacionadas à prática profissional permaneçam alinhadas às normas éticas vigentes.
+
+Essa combinação permite que o NotebookLM funcione como um ambiente de consulta especializado, capaz de integrar conceitos, comparar autores, produzir resumos e apoiar estudos de maneira fundamentada nas referências selecionadas.
+
+
