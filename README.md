@@ -91,3 +91,67 @@ Durante os testes também foram identificadas algumas limitações:
 * Temas não contemplados pelas fontes não são desenvolvidos em profundidade, evidenciando a dependência da base documental.
 * Em questões muito amplas, a divisão do problema em perguntas menores tende a produzir respostas mais completas e organizadas.
 
+---
+
+# 🧪 Testes Realizados
+
+Após a construção do caderno temático, foram realizados testes com diferentes tipos de perguntas para avaliar a consistência das respostas geradas pelo NotebookLM.
+
+| Categoria                       | Objetivo                                                                                             | Resultado                                                                                              |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Conceitos fundamentais          | Verificar a definição de conceitos como mediação, internalização e Zona de Desenvolvimento Proximal. | As respostas apresentaram boa fundamentação teórica e citaram corretamente as fontes utilizadas.       |
+| Comparação entre autores        | Avaliar a capacidade do NotebookLM de integrar diferentes documentos.                                | O modelo apresentou respostas consistentes ao comparar autores e conceitos relacionados.               |
+| Aplicação clínica               | Investigar a utilização dos princípios da Psicologia Histórico-Cultural em contextos clínicos.       | As respostas utilizaram adequadamente os materiais voltados à prática clínica e à práxis profissional. |
+| Aspectos éticos                 | Verificar o uso do Código de Ética Profissional do Psicólogo.                                        | As respostas permaneceram alinhadas aos princípios éticos presentes na documentação utilizada.         |
+| Produção de materiais de estudo | Solicitar resumos, questões de revisão e sínteses.                                                   | O NotebookLM mostrou-se eficiente como ferramenta de apoio ao estudo e revisão acadêmica.              |
+
+## Avaliação Geral
+
+Os testes indicaram que o NotebookLM apresentou melhor desempenho em perguntas específicas e contextualizadas, especialmente quando envolviam comparação entre conceitos ou aplicação prática dos conhecimentos presentes nas fontes.
+
+A possibilidade de consultar diretamente as referências utilizadas aumentou a confiabilidade das respostas e facilitou a verificação das informações apresentadas.
+
+---
+
+# 📖 Miniguia de Estudos
+
+## Resumo
+
+A Psicologia Histórico-Cultural compreende o desenvolvimento humano como um processo construído historicamente por meio das relações sociais. Nessa perspectiva, funções psicológicas superiores são desenvolvidas a partir da interação do indivíduo com seu contexto cultural, tendo a linguagem, a mediação e a atividade humana como elementos centrais desse processo.
+
+No campo clínico, essa abordagem busca compreender o sofrimento psicológico considerando a história de vida do sujeito, suas relações sociais e as condições concretas de existência, superando explicações centradas exclusivamente no indivíduo.
+
+## Glossário
+
+**Mediação**
+Processo pelo qual instrumentos e signos possibilitam o desenvolvimento das funções psicológicas superiores.
+
+**Internalização**
+Transformação das relações sociais em processos psicológicos internos.
+
+**Zona de Desenvolvimento Proximal (ZDP)**
+Distância entre aquilo que o indivíduo consegue realizar sozinho e aquilo que consegue realizar com auxílio.
+
+**Funções Psicológicas Superiores**
+Capacidades cognitivas desenvolvidas historicamente por meio da interação social.
+
+**Atividade**
+Categoria central desenvolvida por Leontiev para compreender a relação entre sujeito, necessidades e realidade objetiva.
+
+## Prompts reutilizáveis
+
+* Explique este conceito utilizando exclusivamente as fontes carregadas no NotebookLM.
+* Compare dois autores da Psicologia Histórico-Cultural e destaque suas principais contribuições.
+* Produza um resumo estruturado sobre este tema.
+* Elabore questões de revisão com base nos documentos utilizados.
+* Identifique quais fontes sustentam cada resposta apresentada.
+* Explique este conceito utilizando exemplos aplicados à prática clínica.
+* Elabore um roteiro de estudos baseado exclusivamente nos materiais disponíveis.
+
+---
+
+# 📌 Considerações Finais
+
+A construção deste caderno temático demonstrou o potencial do NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento. A experiência evidenciou que a qualidade das respostas depende diretamente da seleção das fontes e da elaboração de prompts claros e contextualizados.
+
+Mais do que produzir resumos automaticamente, o NotebookLM mostrou-se um recurso eficiente para apoiar estudos, revisar conteúdos acadêmicos e integrar diferentes referências em um único ambiente de consulta, mantendo a rastreabilidade das informações por meio das citações das fontes utilizadas.
