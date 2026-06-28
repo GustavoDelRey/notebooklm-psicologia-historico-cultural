@@ -84,6 +84,24 @@ Durante os testes, observou-se que perguntas muito amplas tendiam a produzir res
 | Produção de material de estudo | *Elabore um resumo estruturado sobre os principais conceitos da abordagem.*             | Geração de conteúdo organizado, útil para revisão acadêmica.                                                  |
 | Autoavaliação                  | *Crie dez questões de revisão sobre os conceitos presentes nas fontes.*                 | Produção de perguntas relevantes para fixação do conteúdo estudado.                                           |
 
+### Exemplo de resposta gerada
+
+Prompt: Você é um psicólogo clínico que atua na abordagem histórico-cultural.
+
+Utilizando exclusivamente as fontes carregadas, descreva como a Psicologia Histórico-Cultural compreende a ansiedade. Em seguida, em forma de tópicos, em até 200 palavras:
+
+Explique os fundamentos teóricos que sustentam essa compreensão;
+
+Identifique os conceitos da abordagem relacionados ao caso (por exemplo, mediação, atividade, relações sociais, desenvolvimento e constituição do sujeito, quando aplicáveis);
+
+Liste, em tópicos, possíveis intervenções clínicas coerentes com a abordagem histórico-cultural;
+
+Indique quais princípios do Código de Ética Profissional do Psicólogo devem orientar essa atuação;
+
+Resposta:
+
+![Resposta](assets/exemplo-resposta.png)
+
 ## Aprendizados
 
 Ao longo da utilização da ferramenta, algumas boas práticas ficaram evidentes:
