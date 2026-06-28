@@ -2,6 +2,18 @@
 
 ![Capa do Projeto](assets/capa.png)
 
+## Sumário
+
+- Sobre o Projeto
+- Objetivos
+- Tecnologias
+- Curadoria das Fontes
+- Engenharia de Prompts
+- Testes
+- Miniguia
+- Considerações Finais
+- Acesso ao NotebookLM
+
 ## 📖 Sobre o projeto
 
 Este projeto foi desenvolvido como parte do desafio **"Criando um Caderno Temático com NotebookLM"** da DIO.
@@ -183,3 +195,20 @@ Categoria central desenvolvida por Leontiev para compreender a relação entre s
 A construção deste caderno temático demonstrou o potencial do NotebookLM como ferramenta de aprendizagem ativa e organização do conhecimento. A experiência evidenciou que a qualidade das respostas depende diretamente da seleção das fontes e da elaboração de prompts claros e contextualizados.
 
 Mais do que produzir resumos automaticamente, o NotebookLM mostrou-se um recurso eficiente para apoiar estudos, revisar conteúdos acadêmicos e integrar diferentes referências em um único ambiente de consulta, mantendo a rastreabilidade das informações por meio das citações das fontes utilizadas.
+
+---
+
+# 🔗 Acesse o NotebookLM
+
+Este projeto foi documentado neste repositório, porém a experiência completa pode ser explorada diretamente no NotebookLM.
+
+Por meio do notebook é possível:
+
+* Consultar os documentos utilizados como base de conhecimento;
+* Realizar perguntas sobre a Psicologia Histórico-Cultural;
+* Gerar novos resumos;
+* Explorar os conceitos por meio de interações com IA;
+* Utilizar os materiais de estudo produzidos automaticamente pela plataforma.
+
+👉 **[Abrir o NotebookLM – Psicologia Histórico-Cultural](https://notebooklm.google.com/notebook/d8b4c3b6-8618-4bd0-a49c-aede8d405bbc)**
+
