@@ -54,6 +54,10 @@ As fontes foram selecionadas para que o modelo fosse capaz de responder tanto qu
 | **BOCK, Ana Mercês Bahia; FURTADO, Odair; TEIXEIRA, Maria de Lourdes Trassi (2001). *Psicologias: Uma Introdução ao Estudo de Psicologia.***          | Material introdutório utilizado para contextualizar a Psicologia Histórico-Cultural entre as principais correntes da Psicologia.                                    |
 | **Conselho Federal de Psicologia. *Código de Ética Profissional do Psicólogo.***                                                                      | Documento normativo utilizado para orientar respostas relacionadas aos princípios éticos da atuação profissional.                                                   |
 
+### Fontes carregadas no NotebookLM
+
+![Fontes](assets/fontes-notebook.png)
+
 ## 🎯 Critérios de Seleção
 
 A composição da base de conhecimento buscou contemplar diferentes níveis de aprofundamento.
