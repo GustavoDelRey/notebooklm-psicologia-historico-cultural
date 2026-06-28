@@ -10,6 +10,12 @@ O objetivo foi construir uma base de conhecimento especializada sobre **Psicolog
 
 Diferentemente de um chatbot genérico, este NotebookLM foi configurado para responder utilizando exclusivamente as fontes selecionadas, permitindo consultas fundamentadas, resumos, comparações entre autores, geração de materiais de estudo e apoio à revisão de conteúdos acadêmicos.
 
+## 📷 Visão Geral do NotebookLM
+
+A imagem abaixo apresenta a interface inicial do NotebookLM desenvolvido para este projeto, contendo as fontes utilizadas e o ambiente de interação com a IA.
+
+![Tela inicial do NotebookLM](assets/notebook-inicial.png)
+
 ---
 
 ## 🎯 Objetivos
