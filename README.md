@@ -56,4 +56,38 @@ Enquanto alguns documentos fornecem uma visão introdutória da Psicologia Hist�
 
 Essa combinação permite que o NotebookLM funcione como um ambiente de consulta especializado, capaz de integrar conceitos, comparar autores, produzir resumos e apoiar estudos de maneira fundamentada nas referências selecionadas.
 
+---
+
+# 💬 Engenharia de Prompts
+
+Um dos objetivos deste projeto foi explorar diferentes estratégias de interação com o NotebookLM para compreender como a formulação dos prompts influencia a qualidade das respostas geradas.
+
+Durante os testes, observou-se que perguntas muito amplas tendiam a produzir respostas mais genéricas, enquanto prompts específicos e contextualizados resultavam em respostas mais completas, melhor estruturadas e com maior fidelidade às fontes utilizadas.
+
+## Estratégias utilizadas
+
+| Objetivo                       | Exemplo de Prompt                                                                       | Resultado observado                                                                                           |
+| ------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Compreender conceitos          | *Explique o conceito de mediação segundo a Psicologia Histórico-Cultural.*              | Resposta objetiva, fundamentada nas referências e acompanhada de citações das fontes.                         |
+| Comparar autores               | *Compare as contribuições de Vigotski e Leontiev para a Psicologia Histórico-Cultural.* | Boa integração entre documentos distintos, permitindo identificar aproximações e diferenças entre os autores. |
+| Aplicação clínica              | *Como os princípios da Psicologia Histórico-Cultural podem orientar a prática clínica?* | Respostas fundamentadas principalmente nas obras voltadas à clínica e à práxis profissional.                  |
+| Produção de material de estudo | *Elabore um resumo estruturado sobre os principais conceitos da abordagem.*             | Geração de conteúdo organizado, útil para revisão acadêmica.                                                  |
+| Autoavaliação                  | *Crie dez questões de revisão sobre os conceitos presentes nas fontes.*                 | Produção de perguntas relevantes para fixação do conteúdo estudado.                                           |
+
+## Aprendizados
+
+Ao longo da utilização da ferramenta, algumas boas práticas ficaram evidentes:
+
+* Especificar o contexto da pergunta melhora significativamente a qualidade das respostas.
+* Solicitar comparações entre conceitos ou autores favorece respostas mais analíticas.
+* Pedir que o NotebookLM utilize exclusivamente as fontes carregadas aumenta a confiabilidade das informações.
+* Solicitar citações das referências facilita a conferência das informações apresentadas.
+
+## Limitações observadas
+
+Durante os testes também foram identificadas algumas limitações:
+
+* Perguntas excessivamente genéricas produzem respostas mais superficiais.
+* Temas não contemplados pelas fontes não são desenvolvidos em profundidade, evidenciando a dependência da base documental.
+* Em questões muito amplas, a divisão do problema em perguntas menores tende a produzir respostas mais completas e organizadas.
 
